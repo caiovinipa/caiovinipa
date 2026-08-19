@@ -1,9 +1,4 @@
 <h1 align="center">Olá! Eu sou o Caio Vinicius</h1>
-  
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiovinipa&layout=compact&langs_count=7&theme=transparent" alt="Linguagens mais usadas"/>
-</div>
-
-<div align="center"><br>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>   
 
