@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Eu sou o Caio Vinicius</h1>
-
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>   
 
 ##
